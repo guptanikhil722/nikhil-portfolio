@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import styles from './Skillbar.module.css';
 
 const SkillBar = ({ skillName }) => {
@@ -21,7 +21,7 @@ const SkillBar = ({ skillName }) => {
       
         </div>
         </>
-      )  
+      ) ;
         })
       }
       
