@@ -1,0 +1,22 @@
+.skillBar{
+    background-color: aqua;
+    /* width: 100%; */
+    height: 20px;
+    top:5%;
+    /* position: absolute; */
+    margin-right: 10%;
+  z-index: var(--zIndex3);
+}
+.skillName{
+    /* position: absolute; */
+    top:4%;
+    right: 25%;
+   color:aqua;
+   font-size: 1.5rem;
+}
+.skillProgress{
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+ align-items: center;
+}
