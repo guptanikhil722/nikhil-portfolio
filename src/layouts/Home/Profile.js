@@ -1,5 +1,5 @@
 import profileKatakana from 'assets/katakana-profile.svg?url';
-import profileImgLarge from 'assets/profile-large.jpg';
+import profileImgLarge from 'assets/profile-large.JPG';
 import profileImgPlaceholder from 'assets/profile-placeholder.jpg';
 import profileImg from 'assets/profile.jpg';
 import { Button } from 'components/Button';
