@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import styles from './Skillbar.module.css'
 
-const SkillBar = ({ skillName, skillLevel }) => {
-  const [width, setWidth] = useState(0);
+const SkillBar = ({ skillName }) => {
+//   const [width, setWidth] = useState(0);
 
 //   useEffect(() => {
 //     skillLevel.map((item)=>{
