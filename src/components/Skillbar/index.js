@@ -1,1 +1,1 @@
-export * from './Skillbar'
+export * from './Skillbar';

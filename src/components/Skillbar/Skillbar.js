@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import styles from './Skillbar.module.css'
+import styles from './Skillbar.module.css';
 
 const SkillBar = ({ skillName }) => {
 //   const [width, setWidth] = useState(0);

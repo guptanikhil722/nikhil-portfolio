@@ -7,7 +7,7 @@ import { DecoderText } from 'components/DecoderText';
 import { Divider } from 'components/Divider';
 import { Heading } from 'components/Heading';
 import { Image } from 'components/Image';
-import Skillbar from 'components/Skillbar/Skillbar'
+import Skillbar from 'components/Skillbar/Skillbar';
 import { Link } from 'components/Link';
 import { Section } from 'components/Section';
 import { Text } from 'components/Text';
