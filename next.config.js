@@ -4,7 +4,12 @@ module.exports = {
   pageExtensions: ['page.js', 'api.js'],
   eslint: {
     ignoreDuringBuilds: true,
-},
+    },
+  
+      experimental: {
+        appDir: false,
+      },
+
   webpack(config, { isServer }) {
     // Run custom scripts
     if (isServer) {
