@@ -1,7 +1,7 @@
 import React from "react";
 import styles from './Skillbar.module.css';
 
-const SkillBar = ({ skillName }) => {
+export const SkillBar = ({ skillName }) => {
 //   const [width, setWidth] = useState(0);
 
 //   useEffect(() => {
@@ -29,4 +29,4 @@ const SkillBar = ({ skillName }) => {
   );
 };
 
-export default SkillBar;
+// export default SkillBar;
